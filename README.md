@@ -2,14 +2,14 @@
 
 |Variantas | ecoActCode|Formatas          |
 |:---------|----------:|:-----------------|
-|999         |     11111111111|https://atvira.sodra.lt/imones/downloads/2023/monthly-2023.json.zip|
+|17         |     461000|https://atvira.sodra.lt/imones/downloads/2023/monthly-2023.json.zip|
 
 
 ### 2.1 Užduotis
 
 Atsakymas:
 
-![histograma](img/pavyzdys1.png)
+![histograma](img/uzd1.png)
 
 Išvados:
 
@@ -17,7 +17,7 @@ Išvados:
 
 Atsakymas:
 
-![atlyginimai](img/pavyzdys2.png)
+![atlyginimai](img/uzd2.png)
 
 Išvados:
 
@@ -26,7 +26,7 @@ Išvados:
 
 Atsakymas:
 
-![apdraustieji](img/pavyzdys3.png)
+![apdraustieji](img/uzd3.png)
 
 Išvados:
 
@@ -35,4 +35,4 @@ Išvados:
 
 Shiny R aplikacijos nuotrauka:
 
-![shiny app](img/shiny_example.png)
+![shiny app](img/ShinyImage.png)
